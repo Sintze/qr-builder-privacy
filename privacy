@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Privacy Policy - QrBuilder</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: July 18, 2025</p>
+
+  <h2>1. Introduction</h2>
+  <p>This Privacy Policy explains how "Сканер и Генератор QR-кодов – QrBuilder" ("We", "App") collects, uses, and discloses your information when you use our mobile application.</p>
+  <p><strong>We do not require registration and do not collect your name, email, phone number, or exact location.</strong></p>
+
+  <h2>2. Data We Collect Automatically</h2>
+  <h3>2.1. Technical Data</h3>
+  <ul>
+    <li><strong>Device information:</strong> Model, Android version, screen resolution, IP address (for analytics and ad targeting).</li>
+    <li><strong>Identifiers:</strong> Advertising ID (for personalized ads), Android ID.</li>
+  </ul>
+
+  <h3>2.2. Camera Access</h3>
+  <p>We access your device's camera <strong>only</strong> to scan QR codes. <u>Images are processed locally and never uploaded to our servers.</u></p>
+
+  <h3>2.3. Advertising Data</h3>
+  <ul>
+    <li>Ad views, clicks, and interactions (via Yandex Mobile Ads SDK).</li>
+    <li>Approximate location (derived from IP address, not GPS).</li>
+  </ul>
+
+  <h2>3. How We Use Your Data</h2>
+  <ul>
+    <li>To provide QR scanning functionality.</li>
+    <li>To display relevant ads via Yandex Mobile Ads.</li>
+    <li>To analyze crashes and improve app performance.</li>
+  </ul>
+
+  <h2>4. Third-Party Services</h2>
+  <p>We use:</p>
+  <ul>
+    <li><strong>Yandex Mobile Ads SDK</strong> (<a href="https://yandex.ru/legal/confidential/" target="_blank">Privacy Policy</a>) for advertising.</li>
+  </ul>
+  <p>These services may collect data independently. We recommend reviewing their policies.</p>
+
+  <h2>5. Data Retention</h2>
+  <ul>
+    <li>Technical data: Up to 30 days (aggregated analytics).</li>
+    <li>Advertising data: As required by Yandex (typically 1 year).</li>
+  </ul>
+
+  <h2>6. Your Rights</h2>
+  <p>You can:</p>
+  <ul>
+    <li>Reset your Advertising ID in Android settings.</li>
+    <li>Disable camera access via device permissions.</li>
+    <li>Opt out of personalized ads in Android settings > Google > Ads.</li>
+  </ul>
+
+  <h2>7. Children's Privacy</h2>
+  <p>Our app is <strong>not directed</strong> to users under 13. We do not knowingly collect their data.</p>
+
+  <h2>8. Changes to This Policy</h2>
+  <p>Updates will be posted here with a new "Last updated" date.</p>
+
+  <h2>9. Contact Us</h2>
+  <p>For questions, email: <a href="mailto:kodlab-dev@mail.ru">kodlab-dev@mail.ru</a>.</p>
+</body>
+</html>
